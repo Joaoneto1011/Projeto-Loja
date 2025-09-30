@@ -1,6 +1,6 @@
 # 🛒 Sistema de Gerenciamento de Produtos em Java
 
-Este projeto é um sistema simples de gerenciamento de produtos, desenvolvido em **Java**, utilizando **Programação Orientada a Objetos (POO)**.  
+Este projeto é um sistema de gerenciamento de produtos, desenvolvido em **Java**, utilizando **Programação Orientada a Objetos (POO)**.  
 Ele permite cadastrar produtos comuns, importados ou usados, e gerar **etiquetas de preço automaticamente**, incluindo taxas e datas de fabricação.
 
 ---
@@ -52,6 +52,7 @@ Produto comum, usado ou importado (C/U/I)? C
 Nome: Notebook
 
 Preco: 3500
+---
 
 Dados do 2 produto:
 
@@ -62,6 +63,7 @@ Nome: Celular
 Preco: 2000
 
 Taxa alfandega: 150
+---
 
 Dados do 3 produto:
 
