@@ -52,6 +52,7 @@ Produto comum, usado ou importado (C/U/I)? C
 Nome: Notebook
 
 Preco: 3500
+
 ---
 
 Dados do 2 produto:
@@ -63,6 +64,7 @@ Nome: Celular
 Preco: 2000
 
 Taxa alfandega: 150
+
 ---
 
 Dados do 3 produto:
