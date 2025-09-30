@@ -77,6 +77,8 @@ Preco: 1200
 
 Data fabricacao (DD/MM/YYYY): 15/03/2020
 
+---
+
 **Saída:**
 
 ETIQUETA PRECOS:
