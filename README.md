@@ -88,3 +88,15 @@ Notebook $ 3500.00
 Celular $ 2150.00 (Taxa alfandegaria: $ 150.00)
 
 Tablet (used) $ 1200.00 (Data fabricacao: 15/03/2020)
+
+---
+
+## 👨‍💻 Autor
+
+João Neto  
+
+✉️ neto31510@gmail.com  
+
+📞 (34) 99683-2626  
+
+[LinkedIn](https://www.linkedin.com/in/joao-rodrigues-neto-855757293)
